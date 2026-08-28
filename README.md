@@ -7,6 +7,7 @@
 <p align="center"> $\color{#fc93a9}{\textit{.꒰ ♡ ꒱ . can i be known as THE pin kin ??}}$</p>
 <p align="center"> $\color{#fdc3cf}{\textit{hey ml , care to follow ?}}$</p>
 
-<p align="center"> <img width="498" height="498" alt="malaysia-mys" src="https://github.com/user-attachments/assets/567ce9e5-c336-4944-adff-055684f5cec4" />
+<p align="center"> <img width="300" height="300" alt="malaysia-malaysia-scream" src="https://github.com/user-attachments/assets/9663e151-4965-4f39-9b97-d5afd6f4c5a2" /> 
+
 <p align="center"> $\color{#fdfd96}{\textit{AAAAA MERDEKA !!! SAYA ANAK MALAYSIA !!}}$</p>
 <p align="center"> $\color{#ff6961}{\textit{muah muah i love merdeka ,, august 31st .}}$</p>
