@@ -4,9 +4,10 @@
 
 <p align="right">
   <marquee direction="right" scrollamount="5">
-    <span style="color: #fc93a9;">【 LISTENING TO ; FEAR GARDEN , KAGAMINE RIN . 】</span>
+    <font color="#fc93a9">【 LISTENING TO ; FEAR GARDEN , KAGAMINE RIN . 】</font>
   </marquee>
 </p>
+
 
 
 
