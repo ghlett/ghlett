@@ -1,6 +1,8 @@
 <p align="left"> $\color{#fb6b89}{\text{take a nap twin .}}$</p>
 
-<p align+"left"> <img width="498" height="281" alt="pin-bfdi" src="https://github.com/user-attachments/assets/3d2558ba-c0c5-4879-8f19-5de88b2c05c6" />
+<p align="left"> <img width="498" height="281" alt="pin-bfdi" src="https://github.com/user-attachments/assets/3d2558ba-c0c5-4879-8f19-5de88b2c05c6" />
+
+<p align="right"> <marquee direction="right" scrollamount="5"> $\color{#fc93a9}{\text{【 LISTENING TO ; FEAR GARDEN , KAGAMINE RIN . 】}}$ </marquee> </p>
 
 
 
