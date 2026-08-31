@@ -5,10 +5,10 @@
 
 
 
-<p align="right"> 
+<p align="center"> 
   $\quad\quad\quad\quad \color{#fc93a9}{\text{【 LISTENING TO ; FEAR GARDEN , KAGAMINE RIN . 】}}$
 </p>
 
-  <p align="right"> $\color{#fc93a9}{\textit{pin . yaya / aleeya}}$</p>
-  <p align="right"> $\color{#fb6b89}{\textit{c * h enc , iwcare pls}}$</p>
-  <p align="right"> $\color{#fb6b89}{\textit{mostly offtab     ,,    pin fictkin}}$</p>
+  <p align="center"> $\color{#fc93a9}{\textit{pin . yaya / aleeya}}$</p>
+  <p align="center"> $\color{#fb6b89}{\textit{c * h enc , iwcare pls}}$</p>
+  <p align="center"> $\color{#fb6b89}{\textit{mostly offtab     ,,    pin fictkin}}$</p>
