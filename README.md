@@ -13,3 +13,4 @@
   <p align="center"> $\color{#fc93a9}{\textit{pin . yaya / aleeya}}$</p>
   <p align="center"> $\color{#fb6b89}{\textit{c * h enc , iwcare pls}}$</p>
   <p align="center"> $\color{#fb6b89}{\textit{mostly offtab     ,,    pin fictkin}}$</p>
+<p align="center"> <img width="208" height="191" alt="3KgIKO5" src="https://github.com/user-attachments/assets/45ac703f-01c5-4d96-985e-07bb13f0d9d3" />
