@@ -1,6 +1,6 @@
 
 
-<p align="center"> $\color{#a7c7e7}{\textit{hai . . alee}}$</p> 
+<p align="center"> $\color{#a7c7e7}{\textit{hai . . call me alee / aleeya .}}$</p> 
 
 <p align="center"> <img width="150" height="20" alt="7c33023e" src="https://github.com/user-attachments/assets/3bb00235-11d6-47e2-af0c-353a28545cf0" />
 
