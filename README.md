@@ -3,7 +3,10 @@
 
 <p align="center"> $\color{#a7c7e7}{\textit{ghlett is a nonsensical name  . call me alee / aleeya .}}$</p> 
 
-<p align="center"> <img width="150" height="20" alt="7c33023e" src="https://github.com/user-attachments/assets/3bb00235-11d6-47e2-af0c-353a28545cf0" /> <p align="center"> <img width="150" height="20" alt="blinkiesCafe-vz" src="https://github.com/user-attachments/assets/054e237d-5ea0-4d9f-bded-23299b749717" />
+<p float="left">
+  <img src="img width="150" height="20" alt="7c33023e" src="https://github.com/user-attachments/assets/3bb00235-11d6-47e2-af0c-353a28545cf0"" />
+  <img src="<img width="150" height="20" alt="blinkiesCafe-vz" src="https://github.com/user-attachments/assets/07e31027-e1bc-4aed-8134-8571264f72a3" />
+</p>
 
 
   <p align="center"> $\color{#c6e4ff}{\textit{c * h enc , iwcare pls}}$</p>
