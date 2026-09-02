@@ -1,3 +1,4 @@
+<p align="center"> <img width="150" height="20" alt="blinkiesCafe-qk" src="https://github.com/user-attachments/assets/8cb6653b-8458-4bb6-b6c3-55c02ed7f3af" />
 
 
 <p align="center"> $\color{#a7c7e7}{\textit{ghlett is a nonsensical name  . call me alee / aleeya .}}$</p> 
