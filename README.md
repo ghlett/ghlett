@@ -6,5 +6,4 @@
 
   <p align="center"> $\color{#c6e4ff}{\textit{c * h enc , iwcare pls}}$</p>
   <p align="center"> $\color{#effbff}{\textit{mostly offtab     ,,    }}$</p>
-
 <p align="center"> <img width="592" height="32" alt="image07" src="https://github.com/user-attachments/assets/a10d6f3f-24f2-405f-8881-774c5302742b" />
