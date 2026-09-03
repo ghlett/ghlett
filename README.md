@@ -10,4 +10,4 @@
  $\color{#effbff}{\textit{mostly offtab     ,,  pls dni doubles .}}$
  </p>
 <p align="center"> <img width="212" height="137" alt="Janet Jackson - Someone to Call My Lover" src="https://github.com/user-attachments/assets/3c1065eb-ceb3-451c-8275-6224733aea3a" />
-<p align="center"> <img width="498" height="281" alt="profily-bfdi" src="https://github.com/user-attachments/assets/5c264b17-0742-4cd7-890a-53ff1068e292" /> </p>
+<p align="center"> <img width="488" height="271" alt="profily-bfdi" src="https://github.com/user-attachments/assets/5c264b17-0742-4cd7-890a-53ff1068e292" /> </p>
