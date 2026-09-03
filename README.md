@@ -11,7 +11,7 @@
 
   <p align="center"> $\color{#c6e4ff}{\textit{c * h enc , iwcare pls}}$</p>
   <p align="center"> $\color{#effbff}{\textit{mostly offtab     ,,  pls dni doubles .}}$</p>
-<p align="center"> <img width="100" height="140" alt="Janet Jackson - Someone to Call My Lover" src="https://github.com/user-attachments/assets/3c1065eb-ceb3-451c-8275-6224733aea3a" />
+<p align="center"> <img width="150" height="140" alt="Janet Jackson - Someone to Call My Lover" src="https://github.com/user-attachments/assets/3c1065eb-ceb3-451c-8275-6224733aea3a" />
 
 <p align="center"> <img width="592" height="32" alt="image07" src="https://github.com/user-attachments/assets/a10d6f3f-24f2-405f-8881-774c5302742b" /> 
 <p align="center"> <img width="498" height="281" alt="profily-bfdi" src="https://github.com/user-attachments/assets/5c264b17-0742-4cd7-890a-53ff1068e292" /> </p>
