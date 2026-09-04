@@ -2,8 +2,9 @@
 <p align="left">$\color{#3895dc}\text{think i'm on a roll but then i hit another wall}$</p>
 <p align="left">$\color{#1261a0}\text{my insecurities, she dealt with it and all my flaws}$</p>
 <p align="left">
-  $\color{#072f5f}\text{i'm thinking way too deep it's like my head is coming off}$</p>
- $\color{#58cced}\text{profily . alee ; cxh}$</p>
+  $\color{#072f5f}\text{i'm thinking way too deep it's like my head is coming off}$
+  $\color{#58cced}\text{profily . alee ; cxh}$
+  </p>
 <p align="left">$\color{#072f5f}\text{you keep me going}$</p>
 <p align="left">$\color{#1261a0}\text{i really need a boost, keep me going}$</p>
 <p align="left">$\color{#3895dc}\text{if i pop another deuce, am i floating?}$</p>
