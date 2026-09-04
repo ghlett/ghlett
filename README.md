@@ -5,7 +5,7 @@
   <img width="150" height="20" alt="blinkiesCafe-Pk" src="https://github.com/user-attachments/assets/3d800d9d-098f-43a3-a60b-a03f562e8e3e" />
 </p>
 <p align="center"> 
-  $\color{#c6e4ff}{\textit{c * h enc , iwcare pls .}}$
+  $\color{#c6e4ff}{\textit{c * h enc , iwcare pls . sumtimes nverbal ,, im shy to interact .}}$
   <img width="32" height="32" alt="tumblr_ltuzlxnugk1r2nnw5540" src="https://github.com/user-attachments/assets/36420854-32e7-4a69-abe7-eb705793f07f" />
  $\color{#effbff}{\textit{mostly offtab     ,,  pls dni doubles .}}$
  </p>
