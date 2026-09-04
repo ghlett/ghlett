@@ -14,5 +14,5 @@
 <img width="468" height="251" alt="profily-bfdi" src="https://github.com/user-attachments/assets/5c264b17-0742-4cd7-890a-53ff1068e292" /> 
 </p>
 <div align="center">
-  <h2><font color="#effbff">test!</font></h2>
+  <h2><$\color={#effbff}>test!}}$</h2>
 </div>
