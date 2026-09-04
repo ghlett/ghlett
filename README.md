@@ -7,7 +7,7 @@
 <p align="center"> 
   $\color{#c6e4ff}{\textit{c * h enc , iwcare pls . sumtimes nverbal ,, im shy to interact .}}$
   <img width="32" height="32" alt="tumblr_ltuzlxnugk1r2nnw5540" src="https://github.com/user-attachments/assets/36420854-32e7-4a69-abe7-eb705793f07f" />
- $\color{#effbff}{\textit{mostly offtab     ,,  pls dni doubles .}}$
+ $\color{#effbff}{\textit{mostly offtab     ,,  pls dni doubles . sumtimes i dont interact unless you do .}}$
  </p>
 <p align="center">
 <img width="212" height="137" alt="Janet Jackson - Someone to Call My Lover" src="https://github.com/user-attachments/assets/3c1065eb-ceb3-451c-8275-6224733aea3a" />
