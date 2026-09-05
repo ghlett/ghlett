@@ -7,9 +7,9 @@
 <img width="150" height="20" alt="blinkiesCafe-Qs" src="https://github.com/user-attachments/assets/3abf57e0-b2cc-451c-9891-503461b1611d" />
 </p>
 <p align="center"> <img width="374" height="281" alt="miku-hatsune-miku" src="https://github.com/user-attachments/assets/e6cb7bfe-7c70-4370-9190-63fc52499109" />
-<p align="center"> 
-[︵  ata ᛝ](https://lovebluh.atabook.org)
-[alt account . ᛝ](https://github.com/purelyprofily)
+<p align="center">
+  <a href="https://lovebluh.atabook.org">︵ ata . ᛝ</a>
+<a href="https://github.com/purelyprofily">alt github . ᛝ</a>
 </p>
 
 
