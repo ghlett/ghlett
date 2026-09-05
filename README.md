@@ -8,8 +8,8 @@
 </p>
 <p align="center"> <img width="374" height="281" alt="miku-hatsune-miku" src="https://github.com/user-attachments/assets/e6cb7bfe-7c70-4370-9190-63fc52499109" />
 <p align="center"> 
-︵  ata ᛝ(https://lovebluh.atabook.org)
-alt account . ᛝ(https://github.com/purelyprofily)
+[︵  ata ᛝ](https://lovebluh.atabook.org)
+[alt account . ᛝ](https://github.com/purelyprofily)
 </p>
 
 
